@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://webservices.gama-system.com/servertime.asmx?wsdl" uri="wsdl/webservices.gama-system.com/servertime.asmx.wsdl"/>
+    <system systemId="http://www.learnwebservices.com/services/hello?WSDL" uri="wsdl/www.learnwebservices.com/services/hello.wsdl"/>
+    <system systemId="http://www.learnwebservices.com/services/hello?wsdl=HelloEndpoint.wsdl" uri="wsdl/www.learnwebservices.com/services/hello.wsdl_HelloEndpoint.wsdl"/>
+    <system systemId="http://www.dneonline.com/calculator.asmx?WSDL" uri="wsdl/www.dneonline.com/calculator.asmx.wsdl"/>
+    <system systemId="http://webservices.daehosting.com/services/isbnservice.wso?WSDL" uri="wsdl/webservices.daehosting.com/services/isbnservice.wso.wsdl"/>
+</catalog>
